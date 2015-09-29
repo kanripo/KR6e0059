@@ -1,27 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:13.497047
+#+DATE: 2015-09-28 22:57:16.051005
 #+TITLE: 十住毘婆沙論
 #+PROPERTY: CBETA_ID T26n1521
 #+PROPERTY: ID KR6e0059
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1521
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6e0059_T_000-0020a>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0059_T_013-0090a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 13
 ¶
 ¶
-
- 《十住毘婆沙論》卷第十三¶
+《十住毘婆沙論》卷第十三¶
 ¶
 聖者龍樹造¶
 後秦龜茲國三藏鳩摩羅什譯¶
 
-:PROPERTIES:
-:head: 譬喻品餘
-:END:
-¶
+譬喻品餘¶
 
 問曰。菩薩善知是諸法。未得佛道終不¶
 退者。其喻云何。答曰。¶
@@ -54,10 +50,9 @@
 #+END_VERSE
 」¶
 
-好道相者。多有薪草水。無有寇賊師子狼
-<pb:KR6e0059_T_013-0090b>¶
-虎及諸惡獸毒虫之屬。不寒不熱。無有惡山¶
-溝坑絕㵎險隘深榛叢林隈障。亦無高下平¶
+好道相者。多有薪草水。無有寇賊師子狼虎
+<pb:KR6e0059_T_013-0090b>及諸惡獸毒虫之屬。不寒不熱。無有惡山¶
+溝坑絕[澗-日+月]險隘深榛叢林隈障。亦無高下平¶
 直夷通少於岐道。寬博多容多人行處。行¶
 無厭惓多有華果可食之物。如是等事名¶
 為好道相。與此相違名為惡道相。此處名¶
@@ -198,11 +193,7 @@
 所隨從者亦不得惡。是故偈中說善知道¶
 相故。自不得惡餘不得惡。¶
 
-27略行品
-:PROPERTIES:
-:head: 略行品第二十七
-:END:
-¶
+略行品第二十七¶
 
 #+BEGIN_VERSE
 「　菩薩歡喜地
@@ -636,11 +627,7 @@
 為三十二法。為七法。菩薩成就此者。名¶
 為真實菩薩。¶
 
-28分別二地業道品
-:PROPERTIES:
-:head: 分別二地業道品第一
-:END:
-¶
+分別二地業道品第一¶
 
 #+BEGIN_VERSE
 「　諸菩薩已得

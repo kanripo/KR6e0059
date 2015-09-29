@@ -1,26 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:13.563220
+#+DATE: 2015-09-28 22:57:16.104240
 #+TITLE: 十住毘婆沙論
 #+PROPERTY: CBETA_ID T26n1521
 #+PROPERTY: ID KR6e0059
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1521
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6e0059_T_000-0020a>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0059_T_015-0100c> 
 #+PROPERTY: JUAN 15
 ¶
-
- 《十住毘婆沙論》卷第十五¶
+《十住毘婆沙論》卷第十五¶
 ¶
 聖者龍樹造¶
 後秦龜茲國三藏鳩摩羅什譯¶
 
-:PROPERTIES:
-:head: 分別聲聞辟支佛品之餘
-:END:
-¶
+分別聲聞辟支佛品之餘¶
 
 問曰。十善道令何等人至辟支佛地。答曰。¶
 
@@ -150,11 +146,7 @@
 如是相如是修集助道法者。十善道能令¶
 至辟支佛地。¶
 
-30大乘品
-:PROPERTIES:
-:head: 大乘品第三
-:END:
-¶
+大乘品第三¶
 
 問曰。如仁已說。十善道能令人至聲聞辟¶
 支佛地。十善業道。復令何等眾生至於佛¶

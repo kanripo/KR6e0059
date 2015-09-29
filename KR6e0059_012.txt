@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:13.461654
+#+DATE: 2015-09-28 22:57:16.019160
 #+TITLE: 十住毘婆沙論
 #+PROPERTY: CBETA_ID T26n1521
 #+PROPERTY: ID KR6e0059
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1521
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6e0059_T_000-0020a>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0059_T_012-0083c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 12
 ¶
 ¶
-
- 《十住毘婆沙論》卷第十二¶
+《十住毘婆沙論》卷第十二¶
 ¶
 聖者龍樹造¶
 後秦龜茲國三藏鳩摩羅什譯¶
 
-24讚偈品
-:PROPERTIES:
-:head: 讚偈品第二十四
-:END:
-¶
+讚偈品第二十四¶
 
 已如是解四十不共法竟。應取是四十不¶
 共法相念佛。又應以諸偈讚佛。如現在¶
@@ -240,7 +235,7 @@
 　無恚無疑心
 　無邪無輕笑¶
 　無厭無不信
-　䫌面等布施¶
+　[卑*頁]面等布施¶
 　無有分別心
 　此應彼不應¶
 　但以悲心故
@@ -259,7 +254,7 @@
 　無法應當施¶
 　無不敬心施
 　無棄著地施¶
-　無求惱者施
+　求惱者施
 　無垢競勝施¶
 　無戲弄求者
 　無不自手施¶
@@ -403,11 +398,7 @@
 #+END_VERSE
 」¶
 
-25助念佛三昧品
-:PROPERTIES:
-:head: 助念佛三昧品第二十五
-:END:
-¶
+助念佛三昧品第二十五¶
 
 #+BEGIN_VERSE
 「　菩薩應以此
@@ -750,11 +741,7 @@
 智慧火所煉故。於菩薩所行事中。善根成¶
 熟則堪任用。¶
 
-26譬喻品
-:PROPERTIES:
-:head: 譬喻品第二十六
-:END:
-¶
+譬喻品第二十六¶
 
 #+BEGIN_VERSE
 「　是菩薩應聞
@@ -839,7 +826,7 @@
 　不污諸佛家
 　不毀戒欺佛¶
 　深樂薩婆若
-　不動如大山¶
+　不動如太山¶
 　常樂修習行
 　轉上之妙法¶
 　樂出世間法
