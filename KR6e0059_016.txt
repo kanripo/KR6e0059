@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:13.602812
+#+DATE: 2015-09-28 22:57:19.734424
 #+TITLE: 十住毘婆沙論
 #+PROPERTY: CBETA_ID T26n1521
 #+PROPERTY: ID KR6e0059
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1521
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0059_T_000-0020a>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0059_T_016-0107c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
-
- 《十住毘婆沙論》卷第十六¶
+《十住毘婆沙論》卷第十六¶
 ¶
 聖者龍樹造¶
 後秦龜茲國三藏鳩摩羅什譯¶
 
-31護戒品
-:PROPERTIES:
-:head: 護戒品第四
-:END:
-¶
+護戒品第四¶
 
 是菩薩如是行諸善道。¶
 
@@ -457,11 +452,7 @@
 慧等雖非尸羅體以利益尸羅故。亦名尸¶
 羅分。¶
 
-32解頭陀品
-:PROPERTIES:
-:head: 解頭陀品第五
-:END:
-¶
+解頭陀品第五¶
 
 菩薩如是行尸羅法。¶
 

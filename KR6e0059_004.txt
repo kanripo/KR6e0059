@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:13.203218
+#+DATE: 2015-09-28 22:57:19.325913
 #+TITLE: 十住毘婆沙論
 #+PROPERTY: CBETA_ID T26n1521
 #+PROPERTY: ID KR6e0059
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1521
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0059_T_000-0020a>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0059_T_004-0036b> 
 #+PROPERTY: JUAN 4
 ¶
-
- 《十住毘婆沙論》卷第四¶
+《十住毘婆沙論》卷第四¶
 ¶
 聖者龍樹造¶
 後秦龜茲國三藏鳩摩羅什譯¶
 
-7調伏心品
-:PROPERTIES:
-:head: 調伏心品第七
-:END:
-¶
+調伏心品第七¶
 
 問曰。如上品說。三發心必成。餘四不必成。¶
 云何為成。云何不成。答曰。若菩薩發菩提¶
@@ -242,11 +237,7 @@
 尊重稱讚如佛無異。又當隨力令住大¶
 乘。¶
 
-8阿惟越致相品
-:PROPERTIES:
-:head: 阿惟越致相品第八
-:END:
-¶
+阿惟越致相品第八¶
 
 問曰。是諸菩薩有二種。一惟越致。二阿惟越¶
 致應說其相。是惟越致是阿惟越致。答曰。¶
